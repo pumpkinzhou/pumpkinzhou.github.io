@@ -1,7 +1,5 @@
 
 
-title: "Hello World!"
-
-date: 2018-04-26
+title: "Hello World!"  date: 2018-04-26
 
 Hello, this is Nan speaking to the world!
