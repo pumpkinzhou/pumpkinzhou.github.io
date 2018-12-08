@@ -1,8 +1,13 @@
 body{
+    width: 95%;
     margin: 20px 0 0 0;
     line-height: 1.5;
 /*    text-align: justify;*/
 }
 p {
     padding: 0 20px;
+}
+
+img{
+    margin: 5px 20px 0 0;
 }
