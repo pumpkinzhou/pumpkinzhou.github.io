@@ -1,6 +1,6 @@
 body{
-    width: 95%;
-    margin: 20px 0 0 0;
+/*    width: 95%;*/
+    margin: 5px 0 0 0;
     line-height: 1.5;
 /*    text-align: justify;*/
 }
@@ -18,14 +18,19 @@ h1 {
 
 
 p {
-    padding: 0 20px;
+/*    padding: 0 20px;*/
 }
 
 img{
-    margin: 5px 20px 0 0;
+    margin: 5px 5px 5px 5px;
 }
 
 
 li {
     color: #4B0082;
+}
+
+.pink{
+    background: pink;
+    border: 1px solid purple;
 }
