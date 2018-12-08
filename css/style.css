@@ -1,0 +1,36 @@
+body{
+    width: 95%;
+    margin: 20px 0 0 0;
+    line-height: 1.5;
+/*    text-align: justify;*/
+}
+
+
+h1 {
+    color: #000000;
+    text-align: center;
+/*
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+*/
+/*    border: 3px solid purple;*/
+}
+
+p {
+    padding: 0 20px;
+}
+
+img{
+    margin: 5px 20px 0 0;
+}
+
+
+li {
+    color: #4B0082;
+}
+
+
+#special{
+    background: rgba(0,0,100,0.4)
+}
