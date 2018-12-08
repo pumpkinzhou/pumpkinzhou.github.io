@@ -4,6 +4,7 @@ body{
     line-height: 1.5;
 /*    text-align: justify;*/
 }
+<<<<<<< HEAD
 
 
 h1 {
@@ -17,12 +18,15 @@ h1 {
 /*    border: 3px solid purple;*/
 }
 
+=======
+>>>>>>> fad042945a50c8d3c75cca2ca2ed656fecc8c26c
 p {
     padding: 0 20px;
 }
 
 img{
     margin: 5px 20px 0 0;
+<<<<<<< HEAD
 }
 
 
@@ -33,4 +37,6 @@ li {
 
 #special{
     background: rgba(0,0,100,0.4)
+=======
+>>>>>>> fad042945a50c8d3c75cca2ca2ed656fecc8c26c
 }
