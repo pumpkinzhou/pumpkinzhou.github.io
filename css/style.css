@@ -23,6 +23,7 @@ p {
 
 img{
     margin: 5px 5px 5px 5px;
+    border-radius: 5%;
 }
 
 
@@ -30,7 +31,4 @@ li {
     color: #4B0082;
 }
 
-.pink{
-    background: pink;
-    border: 1px solid purple;
-}
+
